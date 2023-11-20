@@ -100,7 +100,12 @@ export default class BuildAndPrice extends LightningElement {
     this.showModal = false;
   }
 
+  get description() {
+    return `Customer is looking for CR-V ${this.selectedVariant.variant} of color ${this.selectedColorName}.`;
+  }
+
   submitHandler() {
+    this.template.querySelector(`components-lead-form`).formSubmit();
   }
 
   animatedPrice() {
