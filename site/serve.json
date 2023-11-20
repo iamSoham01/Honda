@@ -1,0 +1,146 @@
+{
+ "rewrites": [
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1/s/f22776cb7b22002b3a51969a2f91e34066308e9f/bundle_components_navbar.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/components%2Fnavbar%2Fv%2F0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1/s/f22776cb7b22002b3a51969a2f91e34066308e9f/bundle_components_navbar.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1/s/f22776cb7b22002b3a51969a2f91e34066308e9f/bundle_components_navbar.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/components%2Fnavbar",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1/s/f22776cb7b22002b3a51969a2f91e34066308e9f/bundle_components_navbar.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1/s/59fa7e24c40f5694fc5366f1c7cb954b9fceeced/bundle_pages_home.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages%2Fhome%2Fv%2F0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1/s/59fa7e24c40f5694fc5366f1c7cb954b9fceeced/bundle_pages_home.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1/s/59fa7e24c40f5694fc5366f1c7cb954b9fceeced/bundle_pages_home.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages%2Fhome",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1/s/59fa7e24c40f5694fc5366f1c7cb954b9fceeced/bundle_pages_home.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/5_0_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/5_0_0/s/b005bb4c2c907fd35a0797f2b8899108a9a5b779/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc%2Fv%2F5_0_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/5_0_0/s/b005bb4c2c907fd35a0797f2b8899108a9a5b779/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/5_0_0/s/b005bb4c2c907fd35a0797f2b8899108a9a5b779/bundle_lwc.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_home_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fhome%2Fmodule%2Fesm%2Fv%2F0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_home_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_home_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2Fhome%2Fmodule%2Fesm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_home_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5/s/2586f2edf89329d823647a65c9022a8893c4ac2b/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader%2Fv%2F0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5/s/2586f2edf89329d823647a65c9022a8893c4ac2b/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5/s/2586f2edf89329d823647a65c9022a8893c4ac2b/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2FesmLoader",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5/s/2586f2edf89329d823647a65c9022a8893c4ac2b/bundle_lwr_esmLoader.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0/s/da3e2299b65846d3ca3a8bc97483dd62e44e2ad7/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwc%2Fsynthetic-shadow%2Fv%2F5_0_0",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0/s/da3e2299b65846d3ca3a8bc97483dd62e44e2ad7/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0/s/da3e2299b65846d3ca3a8bc97483dd62e44e2ad7/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwc%2Fsynthetic-shadow",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0/s/da3e2299b65846d3ca3a8bc97483dd62e44e2ad7/bundle_@lwc_synthetic-shadow.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5/s/e9db0ee8d2d1858f8681cf9e4be8681f8fe58e0e/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler%2Fv%2F0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5/s/e9db0ee8d2d1858f8681cf9e4be8681f8fe58e0e/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5/s/e9db0ee8d2d1858f8681cf9e4be8681f8fe58e0e/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr%2Fprofiler",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5/s/e9db0ee8d2d1858f8681cf9e4be8681f8fe58e0e/bundle_lwr_profiler.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1/s/8907ce261fef2af94db073e6a326a23225906adb/bundle_pages_buildAndPrice.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages%2FbuildAndPrice%2Fv%2F0_0_1",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1/s/8907ce261fef2af94db073e6a326a23225906adb/bundle_pages_buildAndPrice.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1/s/8907ce261fef2af94db073e6a326a23225906adb/bundle_pages_buildAndPrice.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages%2FbuildAndPrice",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1/s/8907ce261fef2af94db073e6a326a23225906adb/bundle_pages_buildAndPrice.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_buildAndPrice_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2FbuildAndPrice%2Fmodule%2Fesm%2Fv%2F0_11_5",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_buildAndPrice_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_buildAndPrice_module_esm.js"
+  },
+  {
+   "source": "/1/bundle/esm/l/en-US/bi/0/module/mi/%40lwrjs%2Fapp-service%2FbuildAndPrice%2Fmodule%2Fesm",
+   "destination": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_buildAndPrice_module_esm.js"
+  }
+ ],
+ "directoryListing": false,
+ "renderSingle": true
+}

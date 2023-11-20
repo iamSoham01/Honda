@@ -1,0 +1,83 @@
+{
+  "bundles": {
+    "components/navbar": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/components/navbar/v/0_0_1/s/f22776cb7b22002b3a51969a2f91e34066308e9f/bundle_components_navbar.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/5_0_0"
+      ],
+      "dynamicImports": []
+    },
+    "pages/home": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/home/v/0_0_1/s/59fa7e24c40f5694fc5366f1c7cb954b9fceeced/bundle_pages_home.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/5_0_0"
+      ],
+      "dynamicImports": []
+    },
+    "lwc": {
+      "version": "5.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/5_0_0/s/b005bb4c2c907fd35a0797f2b8899108a9a5b779/bundle_lwc.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "@lwrjs/app-service/home/module/esm": {
+      "version": "0.11.5",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/home/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_home_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_11_5",
+        "@lwc/synthetic-shadow/v/5_0_0",
+        "lwr/profiler/v/0_11_5",
+        "lwc/v/5_0_0"
+      ],
+      "dynamicImports": []
+    },
+    "lwr/esmLoader": {
+      "version": "0.11.5",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_11_5/s/2586f2edf89329d823647a65c9022a8893c4ac2b/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "@lwc/synthetic-shadow": {
+      "version": "5.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/5_0_0/s/da3e2299b65846d3ca3a8bc97483dd62e44e2ad7/bundle_@lwc_synthetic-shadow.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "lwr/profiler": {
+      "version": "0.11.5",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_11_5/s/e9db0ee8d2d1858f8681cf9e4be8681f8fe58e0e/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": [],
+      "dynamicImports": []
+    },
+    "pages/buildAndPrice": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/pages/buildAndPrice/v/0_0_1/s/8907ce261fef2af94db073e6a326a23225906adb/bundle_pages_buildAndPrice.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/5_0_0"
+      ],
+      "dynamicImports": []
+    },
+    "@lwrjs/app-service/buildAndPrice/module/esm": {
+      "version": "0.11.5",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/buildAndPrice/module/esm/v/0_11_5/s/bd64416e4b83a233f83112129a6ca211bded15fd/bundle_@lwrjs_app-service_buildAndPrice_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_11_5",
+        "@lwc/synthetic-shadow/v/5_0_0",
+        "lwr/profiler/v/0_11_5",
+        "lwc/v/5_0_0"
+      ],
+      "dynamicImports": []
+    }
+  }
+}
