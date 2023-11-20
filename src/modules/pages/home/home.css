@@ -1,5 +1,5 @@
 main {
-  padding-top: 36px;
+  padding-top: 24px;
 }
 
 .first_heading {
@@ -28,7 +28,6 @@ main {
 }
 
 .benefits {
-  padding: 32px;
   text-align: center;
   font-size: 32px;
 }
